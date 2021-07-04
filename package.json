@@ -1,0 +1,44 @@
+{
+  "name": "penyiar",
+  "version": "0.0.1",
+  "libraty": "JS",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "private": false,
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "cheerio": "^1.0.0-rc.5",
+    "debug": "^4.3.1",
+    "discord-ytdl-core": "^5.0.0",
+    "discord.js": "^12.5.1",
+    "erit-ytdl": "^0.1.2",
+    "ffmpeg-static": "^4.2.3",
+    "i18n": "^0.13.2",
+    "lyrics-finder": "^21.0.5",
+    "miniget": "4.0.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.1.1",
+    "soundcloud-downloader": "0.2.0",
+    "string-progressbar": "^1.0.1",
+    "ytdl-core": "^4.4.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dobrescu12/Sexoasa_bot.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dobrescu12/Sexoasa_bot/issues"
+  },
+  "homepage": "https://github.com/Dobrescu12/Sexoasa_bot#readme"
+}

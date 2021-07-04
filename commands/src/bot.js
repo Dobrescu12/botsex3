@@ -1,0 +1,1 @@
+console logs("Hell world");
